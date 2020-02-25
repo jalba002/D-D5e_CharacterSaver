@@ -22,15 +22,15 @@ This is a small project I wanted to develop for my D&D Party but I thought it'd 
 - [x] Main menu
 - [x] Default characters
 - [x] Show saved characters.
-- [] Save custom character. (Hardcoded)
-- [] Edit save paths
-- [] Create custom character menu.
+- [ ] Save custom character. (Hardcoded)
+- [ ] Edit save paths
+- [ ] Create custom character menu.
 - [x] Serialize characters into a .txt
-- [] Load all saved characters.
-- [] Import 5e rules and info from an external API.
-- [] OR create your own API.
-- [] Create a feat system.
-- [] Functional full character creation.
+- [ ] Load all saved characters.
+- [ ] Import 5e rules and info from an external API.
+- [ ] OR create your own API.
+- [ ] Create a feat system.
+- [ ] Functional full character creation.
 - [x] Cool character display.
 
 ### Notes
