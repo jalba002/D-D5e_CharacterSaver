@@ -1,0 +1,10 @@
+C:\Users\Crynano\source\repos\ImprovedHealthSLN\Improved Health\bin\Debug\Improved Health.exe.config
+C:\Users\Crynano\source\repos\ImprovedHealthSLN\Improved Health\bin\Debug\Improved Health.exe
+C:\Users\Crynano\source\repos\ImprovedHealthSLN\Improved Health\bin\Debug\Improved Health.pdb
+C:\Users\Crynano\source\repos\ImprovedHealthSLN\Improved Health\obj\Debug\Improved Health.csprojAssemblyReference.cache
+C:\Users\Crynano\source\repos\ImprovedHealthSLN\Improved Health\obj\Debug\Improved Health.csproj.CoreCompileInputs.cache
+C:\Users\Crynano\source\repos\ImprovedHealthSLN\Improved Health\obj\Debug\Improved Health.exe
+C:\Users\Crynano\source\repos\ImprovedHealthSLN\Improved Health\obj\Debug\Improved Health.pdb
+C:\Users\Crynano\source\repos\ImprovedHealthSLN\Improved Health\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Crynano\source\repos\ImprovedHealthSLN\Improved Health\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Crynano\source\repos\ImprovedHealthSLN\Improved Health\obj\Debug\Improved Health.csproj.CopyComplete
